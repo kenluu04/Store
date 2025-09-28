@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: bisque;
+}
+header{
+    background-color: rgb(230, 205, 176);
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.Ken1{
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    margin-left: 30px;
+}
+.link-header{
+    text-decoration: dashed;
+    color: rgb(63, 142, 191);
+}
+.link-nav1{
+    text-decoration: dashed;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 100px;
+    color: rgb(172, 161, 116);
+}
+.link-nav2{
+    text-decoration: dashed;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 100px;
+    color: rgb(172, 161, 116);
+}
+.link-nav1:hover{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(90, 196, 182);
+}
+.link-nav2:hover{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(90, 196, 182);
+}
+p::before {
+  content: "• "; 
+  margin-left: 90px;
+}
+.Ken2{
+    margin-left: 150px;
+}
+footer a{
+    margin-left: 20px;
+}
