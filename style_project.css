@@ -11,6 +11,7 @@ header {
     margin-bottom: 20px;
 }
 
+
 .button {
     background-color: #36bbce;
     color: black;
@@ -34,9 +35,10 @@ nav {
     text-decoration: none;
     display: block;
 }
-
-.post-text {
-    font-size: 24px;
+.post {
+    padding: 15px 45px 30px 45px;
+    margin: 20px;
+    position: relative;
 }
 
 .info {
@@ -44,12 +46,6 @@ nav {
     flex-wrap: wrap;
     max-width: 1100px;
     margin: 0 auto;
-}
-.post {
-    background-color: rgb(255, 255, 255);
-    padding: 15px 45px 30px 45px;
-    margin: 20px;
-    position: relative;
 }
 
 .article-but {
@@ -195,11 +191,12 @@ footer {
   display: flex;
   align-items: center;
   gap: 40px;
-  background: #fff;
+  background: #ffffff;
   padding: 30px;
   border-radius: 16px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.12);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 800px;
 }
 
 .post:hover {
