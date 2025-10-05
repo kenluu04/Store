@@ -8,7 +8,10 @@ body {
     font-size: 30px;
 }
 h1{
-    margin-left: 30px;
+    text-align: center;
+}
+p{
+    text-align: center;
 }
 .link-nav1{
     text-decoration: dashed;
@@ -34,14 +37,9 @@ h1{
     font-size: 40px;
     color: rgb(90, 196, 182);
 }
-p::before {
-  content: "• "; 
-  margin-left: 90px;
-}
 .ken3{
     text-align: center;
     
 }
 footer a{
     margin-left: 20px;
-}
