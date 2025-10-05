@@ -5,14 +5,15 @@ body {
 
 .Ken1{
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
 }
 h1{
     text-align: center;
+    font-size: 22px;
 }
 p{
     text-align: center;
-    font-size: 25px
+    font-size: 19px;
 }
 .link-nav1{
     text-decoration: dashed;
