@@ -12,6 +12,7 @@ h1{
 }
 p{
     text-align: center;
+    font-size: 25px
 }
 .link-nav1{
     text-decoration: dashed;
@@ -19,6 +20,7 @@ p{
     margin-right: 30px;
     margin-top: 100px;
     color: rgb(172, 161, 116);
+    font-size: 40px;
 }
 .link-nav2{
     text-decoration: dashed;
@@ -26,15 +28,16 @@ p{
     margin-right: 30px;
     margin-top: 100px;
     color: rgb(172, 161, 116);
+    font-size: 40px;
 }
 .link-nav1:hover{
     text-align: center;
-    font-size: 40px;
+    font-size: 60px;
     color: rgb(90, 196, 182);
 }
 .link-nav2:hover{
     text-align: center;
-    font-size: 40px;
+    font-size: 60px;
     color: rgb(90, 196, 182);
 }
 .ken3{
